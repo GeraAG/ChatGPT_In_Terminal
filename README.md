@@ -1,7 +1,10 @@
 # ChatGPT_In_Terminal
 
-To install the official Python bindings, run the following command:
+This is a basic python program to chat with chatGPT in terminal window.
 
-pip install openai
+In order for this program to work, you require:
+1. install openai module
 
-Also required to use your own OPENAI_API_KEY which you can get at https://platform.openai.com/api-keys
+   pip install openai
+
+2. Use OPENAI_API_KEY which you can get at https://platform.openai.com/api-keys
